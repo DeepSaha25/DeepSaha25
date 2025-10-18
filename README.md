@@ -1,6 +1,6 @@
 # Hi, I'm Deep Saha 👋
 
-### Georgian || Aspiring SDE || Web Development Enthusiast || Building Projects & Skills
+### Deep Saha || Aspiring SDE || Web Development Enthusiast || Building Projects & Skills
 
 ---
 
@@ -22,11 +22,13 @@
 
 ### 🛠️ My Toolbox & Skills
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/Web_Development-303030?style=for-the-badge&logo=web&logoColor=white" alt="Web Development Badge">
-<img src="https://img.shields.io/badge/Problem--Solving-FF5722?style=for-the-badge&logo=codepen&logoColor=white" alt="Problem Solving Badge">
+<p align="left">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="25"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="25"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="25"/>
+    <img src="https://img.shields.io/badge/Web_Development-303030?style=flat&logo=web&logoColor=white" alt="Web Development" height="25"/>
+    <img src="https://img.shields.io/badge/Problem--Solving-FF5722?style=flat&logo=codepen&logoColor=white" alt="Problem Solving" height="25"/>
+</p>
 
 ---
 
@@ -39,11 +41,10 @@
 -   **Rashtriya Military School Belgaum**
     * AISSEE || AISSE Science
     * *Apr 2025 - Apr 2025*
-   
+    
 ---
 
 ### 📫 Let's Connect!
 
--   🔗 **LinkedIn:** [www.linkedin.com/in/deep-saha-13a4bb365]
-
--   📧 **Email:** [ `ideepsaha25@gmail.com`)]
+-   🔗 **LinkedIn:** [https://www.linkedin.com/in/deep-saha-13a4bb365](https://www.linkedin.com/in/deep-saha-13a4bb365)
+-   📧 **Email:** [mailto:ideepsaha25@gmail.com](mailto:ideepsaha25@gmail.com)
