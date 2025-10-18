@@ -40,7 +40,7 @@
 
 -   **Rashtriya Military School Belgaum**
     * AISSEE || AISSE Science
-    * *Apr 2025 - Apr 2025*
+    * *Apr 2022 - Apr 2025*
     
 ---
 
