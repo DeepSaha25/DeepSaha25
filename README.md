@@ -19,6 +19,9 @@
 -   **Exploring new technologies** to expand my problem-solving toolkit.
 
 ---
+## Hacktoberfest Stats
+
+[![An image of @DeepSaha25 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/DeepSaha25)](https://www.holopin.io/@deepsaha25#)
 
 ### 🛠️ My Toolbox & Skills
 
