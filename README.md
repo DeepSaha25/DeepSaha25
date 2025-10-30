@@ -39,18 +39,6 @@
 
 ---
 
-###  Education
-
--   **JIS University**
-    * Bachelor of Technology - BTech, Computer Science Engineering
-    * *Jun 2025 - Jun 2029*
-
--   **Rashtriya Military School Belgaum**
-    * AISSEE || AISSE Science
-    * *Apr 2022 - Apr 2025*
-    
----
-
 ### Let's Connect!
 
 -   🔗 **LinkedIn:** [https://www.linkedin.com/in/deep-saha-13a4bb365](https://www.linkedin.com/in/deep-saha-13a4bb365)
