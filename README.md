@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 What I'm currently up to
+###  What I'm currently up to
 
 -   **Contributor at Hacktoberfest'25:** Actively contributing to open source projects.
 -   **Learning and building in Web Development:** Focused on enhancing my skills in this area.
