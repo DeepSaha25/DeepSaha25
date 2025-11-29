@@ -6,7 +6,7 @@
 
 ###  A bit about me
 
--   **B.Tech CSE student at JIS University**, passionate about coding, tech, and problem-solving.
+-   **B.Tech CSE student at Narula Institute Of Technology**, passionate about coding, tech, and problem-solving.
 -   I enjoy building projects, learning new tools, and applying skills to real-world challenges.
 -   Always open to opportunities to learn, grow, and collaborate.
 
