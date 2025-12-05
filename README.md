@@ -12,13 +12,6 @@
 
 ---
 
-###  What I'm currently up to
-
--   **Contributor at Hacktoberfest'25:** Actively contributing to open source projects.
--   **Learning and building in Web Development:** Focused on enhancing my skills in this area.
--   **Exploring new technologies** to expand my problem-solving toolkit.
-
----
 ## Hacktoberfest Stats
 
 [![An image of @DeepSaha25 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/DeepSaha25)](https://www.holopin.io/@deepsaha25#)
